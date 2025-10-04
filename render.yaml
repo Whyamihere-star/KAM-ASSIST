@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: kam-assistant
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
