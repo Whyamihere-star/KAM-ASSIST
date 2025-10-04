@@ -3,6 +3,5 @@ uvicorn[standard]==0.23.2
 requests==2.31.0
 pydantic==1.10.13
 sqlalchemy==2.0.19
-databases[sqlite]==0.7.0
+databases==0.7.0
 python-dotenv==1.0.0
-
